@@ -1,14 +1,3 @@
-- 👋 Hi, I’m @Lucadev1337
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Lucadev1337/Lucadev1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <p align="center">
   <br>
   <samp>
@@ -54,6 +43,5 @@ Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path">Dij
 </details>
 
 ----
-Credits: [TanZng](https://github.com/TanZng)
 
 Last Edited on: 31/08/2020
