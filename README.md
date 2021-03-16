@@ -22,7 +22,7 @@
 Current Project: <a href="https://firenode.xyz">FireNode Hosting Service.</a>
 
 <p align="center">
-  <a rel="nofollow noopener noreferrer" target="_blank" href="dsc.bio/luca5599">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://dsc.bio/luca5599">
   <img src="https://cdn.icon-icons.com/icons2/1476/PNG/512/discord_101785.png" width="30px" alt="LinkedIn"></a>
 </p> 
 
