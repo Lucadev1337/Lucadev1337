@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://lucadev.ga">Luca</a></b>.
-    <br>I'm a Student from Germany.<br>
+    <br>I'm a Student from Germany and i'm programming as a Hobby.<br>
 
 </samp>
 
