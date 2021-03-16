@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://lucadev.ga">Luca</a></b>.
-    <br>I'm a Computer Engineering Undergraduate Student from Mexico.<br>
+    <br>I'm a Student from Germany.<br>
 
 </samp>
 
@@ -19,7 +19,7 @@
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
-Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path">Dijkstra's shortest path visualizer.</a>
+Current Project: <a href="https://firenode.xyz">FireNode Hosting Service.</a>
 
 <p align="center">
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/tania-r-zuniga/">
