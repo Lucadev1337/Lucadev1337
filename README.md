@@ -43,5 +43,3 @@ Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path">Dij
 </details>
 
 ----
-
-Last Edited on: 31/08/2020
