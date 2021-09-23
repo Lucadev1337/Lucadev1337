@@ -18,7 +18,7 @@
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
-Current Project: <a href="https://firenode.xyz">FireNode Hosting Service.</a>
+Current Project: <a href="https://astrohost.xyz">AstroHost - Free 24/7 Hosting</a>
 
 <p align="center">
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://dsc.bio/luca5599">
