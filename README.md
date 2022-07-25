@@ -20,15 +20,10 @@
 
 Current Project: <a href="https://mineberg.xyz">Mineberg - Free/Cheap 24/7 Hosting!</a>
 
-
-<summary> <b> <samp> Light bonfire </samp></b></summary>
-<samp>
 <p align="center">
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://dsc.bio/luca5599">
-  <img src="https://cdn.icon-icons.com/icons2/1476/PNG/512/discord_101785.png" width="30px" alt="LinkedIn"></a>
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://discord.gg/8N8RA9wwFr">
+  <img src="https://cdn.icon-icons.com/icons2/1476/PNG/512/discord_101785.png" width="30px" alt="Discord"></a>
 </p> 
-  </samp>
-  </summary>
 
 </samp>
 </details>
