@@ -18,7 +18,7 @@
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
-Current Project: <a href="https://schuelerzeitung.ge">Die Schuelerzerzeitung - News aus der DIST!</a>
+Current Project: <a href="https://schuelerzeitung.ge">Die Schuelerzeitung - News aus der DIST!</a>
 
 <p align="center">
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://discord.com/users/698196442287833159">
