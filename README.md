@@ -1,8 +1,8 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://lucadev.ga">Luca</a></b>.
-    <br>I'm a Student from Germany and i'm programming as a Hobby.<br>
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="#">Luca</a></b>.
+    <br>I'm a Student from Germany/Georgia and currently programming as a Hobby.<br>
 
 </samp>
 
@@ -18,10 +18,10 @@
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
-Current Project: <a href="https://mineberg.xyz">Mineberg - Free/Cheap 24/7 Hosting!</a>
+Current Project: <a href="https://schuelerzeitung.ge">Die Schuelerzerzeitung - News aus der DIST!</a>
 
 <p align="center">
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://discord.gg/8N8RA9wwFr">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://discord.com/users/698196442287833159">
   <img src="https://cdn.icon-icons.com/icons2/1476/PNG/512/discord_101785.png" width="30px" alt="Discord"></a>
 </p> 
 
